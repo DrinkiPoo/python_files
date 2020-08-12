@@ -1,0 +1,33 @@
+things I've learned so far:
+1. Venv and what it does
+2. Variables (integers, floats, booleans and strings)
+3. Every variable received from 'input' is treated as a string.
+4. How to change a string to a number ( x = int(input_variable))
+5. Formatter string f'this is a {insert variable here} dog'
+6. string methods like str.upper(), str.lower(), str. replace() etc
+7. len() is not a string method.
+8. Arithmetic operators + - * / // % **
+9. If statement
+10. Logical operators: and, or, not
+11. Comparision operators >, <, >=, <=, ==, !=
+12. Weight conversion
+13. While loops
+14. Car game with while loop and conditionals
+15. for loops
+16. nested loop
+17. Lists
+18. 2d lists or matrix
+19. List methods
+20. unique numbers
+21. tuples
+22. unpacking
+23. functions and keyword agruments
+24. try and exceptions
+25. comments
+26. class
+27. inheritance
+28. packages
+29. python 3 module index
+30. use
+31. file and directories
+
