@@ -1,3 +1,2 @@
-1. Nothing to read here!
-2. Just following the convention of adding a readme file. 
-3. Bye, and have a good day!!
+# README
+1. There is nothing to read!
